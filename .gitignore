@@ -2,3 +2,4 @@
 flake.lock
 PKGBUILD
 .SRCINFO
+__pycache__
