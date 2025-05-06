@@ -7,10 +7,15 @@
   - Work intervals
   - Short breaks
   - Long restorative pauses
+
 🔁 **Cycle Management**: Configure total number of work/break cycles before a long rest is introduced.
+
 🎯 **Score Tracking**: Monitor cumulative productivity with our score system.
+
 🔒 **Break Screen Lock**: Enforced screen lock during breaks prevents inefficient task-switching and supports authentic recovery.
+
 🧠 **Support Future Mode**: Turn on to support our development team going forward
+
 🎨 **Theme Switching**: Toggle between light and dark themes to match environmental conditions or user preference.
 ## Interface
 The application interface presents:
@@ -56,6 +61,7 @@ A pre-built `.exe` installer is available in the [Releases](https://github.com/y
 Derived from French term for "between acts," **Entracte** is designed to orchestrate your time into distinct periods of exertion and renewal. Just as silence organizes music, so does rest organize labor.
 ## 🔗 Community & Support
 ✨ **Wonders are closer than they seem** — [@wondermakers_space](https://t.me/wondermakers_space)
+
 If you enjoy using Entracte and want to support its development:
 - 💖 Boosty: [https://boosty.to/wondermakers/donate](https://boosty.to/wondermakers/donate)
 - **Crypto donations** welcome:
